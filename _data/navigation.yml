@@ -14,9 +14,9 @@ main:
   - title: "Publications"
     url: /publications/    
 
-  - title: "Resume (English)"
+  - title: "Resume (Eng.)"
     url: /resume-en/    
     
-  - title: "CV (French)"
-    url: /cv-fr/
+  - title: "CV (Eng., Fr.)"
+    url: /cv-en-fr/
       
