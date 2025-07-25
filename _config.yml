@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "Avery Nguyen"
 title_separator          : "-"
 name                     : &name "Avery Nguyen"
-description              : &description "personal description"
+description              : &description "personal website for Avery Nguyen"
 url                      : https://averyaviary.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Avery Nguyen"
   pronouns         : "they/them"
-  bio              : ""
+  bio              : "Final year PhD candidate in Nuclear Science and Engineering, focused on materials challenges and security applications."
   location         : #
   employer         : "MIT NSE"
   uri              : # URL
