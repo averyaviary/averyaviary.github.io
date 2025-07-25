@@ -13,10 +13,10 @@ main:
     url: /research/
 
   - title: "Resume (Eng.)"
-    url: /avng_resume.pdf/    
+    url: /files/avng_resume.pdf/    
     
   - title: "CV (Eng.)"
-    url: /avng_cv_en.pdf/
+    url: /files/avng_cv_en.pdf/
 
   - title: "CV (Fr.)"
-    url: /avng_cv_fr.pdf/
+    url: /files/avng_cv_fr.pdf/
