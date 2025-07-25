@@ -8,15 +8,15 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
+
   - title: "Research"
     url: /research/
 
-  - title: "Publications"
-    url: /publications/    
-
   - title: "Resume (Eng.)"
-    url: /resume-en/    
+    url: /avng_resume.pdf/    
     
-  - title: "CV (Eng., Fr.)"
-    url: /cv-en-fr/
-      
+  - title: "CV (Eng.)"
+    url: /avng_cv_en.pdf/
+
+  - title: "CV (Fr.)"
+    url: /avng_cv_fr.pdf/
